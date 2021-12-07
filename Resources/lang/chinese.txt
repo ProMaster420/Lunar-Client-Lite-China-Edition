@@ -1,0 +1,18 @@
+主页
+设置
+关于
+Java
+目录
+启动选项
+个性化饰品
+朋友是一个坚韧不拔的纪录片， 在香港这座城市的设置。 主演：钱德勒 索罗斯 傅博斯1 瑞秋 莫妮卡 和一些其他他妈的演员。
+让Lunar Client 使用你的Java环境
+JVM 参数
+Lunar Client Lite made by
+Aetopia
+GitHub 仓库
+重置 Lunar Client Lite
+重置
+打开日志目录
+打开
+语言

@@ -1,0 +1,20 @@
+version: 2.9.1
+files:
+  - url: Lunar Client v2.9.1.exe
+    sha512: P45vCCmK6WlETPjDodvobZCVjjUu0q34yUISWSUZt1IUYcp+v8oJ+D52UmqmqHn9lfbC8UbzhvW1OlJewtjIug==
+path: Lunar Client v2.9.1.exe
+sha512: P45vCCmK6WlETPjDodvobZCVjjUu0q34yUISWSUZt1IUYcp+v8oJ+D52UmqmqHn9lfbC8UbzhvW1OlJewtjIug==
+packages:
+  ia32:
+    size: 59041561
+    sha512: y7DuekpqWHe6DRgkkq36SxFa7zOeTQClwUUGkU/lxcvu0S8Ud5D9XEYzjbyheJl8MrFU7JRcD8SNMBK82jPyfg==
+    blockMapSize: 63709
+    path: lunarclient-2.9.1-ia32.nsis.7z
+    file: lunarclient-2.9.1-ia32.nsis.7z
+  x64:
+    size: 62087133
+    sha512: 6jhMV4QMU1uPuRaF8PhLncpGchVWj9YPte/grLOwIpVqNjFZ95+RWM0I4jU42mPz6tpPVVVkHXgD+3jCYK7Nwg==
+    blockMapSize: 66106
+    path: lunarclient-2.9.1-x64.nsis.7z
+    file: lunarclient-2.9.1-x64.nsis.7z
+releaseDate: '2021-11-30T22:33:01.094Z'
